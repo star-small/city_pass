@@ -13,7 +13,9 @@
             "28"
         ],
         "ticket": null,
-        "contact": "+7 (7172) 79-04-39"
+        "contact": "+7 (7172) 79-04-39",
+        "categories": ["Cultural Center", "Historical Landmark", "Tourist Attraction"]
+
     },
     {
         "name": "Музей энергии будущего «Нур-Алем» (ЭКСПО)",
@@ -32,7 +34,8 @@
             "505"
         ],
         "ticket": null,
-        "contact": "+7 (7172) 79-04-39"
+        "contact": "+7 (7172) 79-04-39",
+        "categories": ["Museums", "Touristic", "Cultural"]
     },
     {
         "name": "Театр аниматрониксов «Джунгли»",
@@ -54,7 +57,8 @@
             "44"
         ],
         "ticket": null,
-        "contact": "+7 (7172) 79-04-39"
+        "contact": "+7 (7172) 79-04-39",
+        "categories": ["Touristic", "Entertainment Centers"]
     },
     {
         "name": "Дворец Мира и Согласия",
@@ -73,7 +77,8 @@
             "40"
         ],
         "ticket": null,
-        "contact": "+7 (7172) 79-04-39"
+        "contact": "+7 (7172) 79-04-39",
+        "categories": ["Cultural", "Historical"]
     },
     {
         "name": "Национальный музей Республики Казахстан",
@@ -95,7 +100,8 @@
             "47"
         ],
         "ticket": null,
-        "contact": "+7 (7172) 79-04-39"
+        "contact": "+7 (7172) 79-04-39",
+        "categories": ["Museums", "Cultural"]
     },
     {
         "name": "Монумент «Астана-Байтерек»",
@@ -112,7 +118,8 @@
             "46"
         ],
         "ticket": null,
-        "contact": "+7 (7172) 79-04-39"
+        "contact": "+7 (7172) 79-04-39",
+        "categories": ["Architectural", "Touristic"]
     },
     {
         "name": "Океанариум «Ailand»",
@@ -134,7 +141,8 @@
             "44"
         ],
         "ticket": null,
-        "contact": "+7 (7172) 79-04-39"
+        "contact": "+7 (7172) 79-04-39",
+        "categories": ["Entertainment Centers"]
     },
     {
         "name": "Колесо обозрения «Ailand»",
@@ -156,7 +164,8 @@
             "44"
         ],
         "ticket": null,
-        "contact": "+7 (7172) 79-04-39"
+        "contact": "+7 (7172) 79-04-39",
+        "categories": ["Entertainment Centers"]
     },
     {
         "name": "Экзотариум «Ailand»",
@@ -176,7 +185,8 @@
             "44"
         ],
         "ticket": null,
-        "contact": "+7 (7172) 79-04-39"
+        "contact": "+7 (7172) 79-04-39",
+        "categories": ["Entertainment Centers"]
     },
     {
         "name": "Посещение «Музея природы» и «Контактного Зоопарка» в Визит-центре «Бурабай»",
@@ -188,7 +198,9 @@
         "schedule": null,
         "buses": null,
         "ticket": null,
-        "contact": null
+        "contact": null,
+        "categories": ["Museums"]
+
     },
     {
         "name": "Музейно-мемориальный комплекс «АЛЖИР»",
@@ -200,7 +212,8 @@
         "schedule": null,
         "buses": null,
         "ticket": null,
-        "contact": null
+        "contact": null,
+        "categories": ["Museums", "Historical", "Cultural"]
     },
     {
         "name": "Музей Сакена Сейфуллина",
@@ -233,7 +246,8 @@
             "73"
         ],
         "ticket": null,
-        "contact": "+7 (7172) 79-04-39"
+        "contact": "+7 (7172) 79-04-39",
+        "categories": ["Museums", "Cultural"]
     },
     {
         "name": "«Зал золото» в Национальном музее Республики Казахстан",
@@ -255,7 +269,8 @@
             "47"
         ],
         "ticket": null,
-        "contact": "+7 (7172) 79-04-39"
+        "contact": "+7 (7172) 79-04-39",
+        "categories": ["Museums", "Cultural", "Historical"]
     },
     {
         "name": "Дворец Независимости",
@@ -273,7 +288,8 @@
             "47"
         ],
         "ticket": null,
-        "contact": "+7 (7172) 79-04-39"
+        "contact": "+7 (7172) 79-04-39",
+        "categories": ["Architectural", "Museums"]
     },
     {
         "name": "Триумфальная арка «Мәңгілік Ел»",
@@ -291,7 +307,8 @@
             "314"
         ],
         "ticket": null,
-        "contact": "+7 (7172) 79-04-39"
+        "contact": "+7 (7172) 79-04-39",
+        "categories": ["Architectural"]
     },
     {
         "name": "Бульвар «Нуржол»",
@@ -303,7 +320,8 @@
         "schedule": null,
         "buses": null,
         "ticket": null,
-        "contact": null
+        "contact": null,
+        "categories": ["Architectural","Natural"]        
     },
     {
         "name": "Монумент «Қазақ елі»",
@@ -315,7 +333,8 @@
         "schedule": null,
         "buses": null,
         "ticket": null,
-        "contact": null
+        "contact": null,
+        "categories": ["Architectural", "Historical"]
     },
     {
         "name": "Мечеть «Хазрет Султан»",
@@ -327,7 +346,9 @@
         "schedule": null,
         "buses": null,
         "ticket": null,
-        "contact": null
+        "contact": null,
+        "categories": ["Religious", "Architectural"]
+
     },
     {
         "name": "Мост «Атырау көпірі»",
@@ -339,7 +360,9 @@
         "schedule": null,
         "buses": null,
         "ticket": null,
-        "contact": null
+        "contact": null,
+        "categories": ["Religious"]
+
     },
     {
         "name": "Арбат",
@@ -351,7 +374,8 @@
         "schedule": null,
         "buses": null,
         "ticket": null,
-        "contact": null
+        "contact": null,
+        "categories": ["Touristic", "Cultural"]
     },
     {
         "name": "Мечеть «Нур-Астана»",
@@ -363,7 +387,8 @@
         "schedule": null,
         "buses": null,
         "ticket": null,
-        "contact": null
+        "contact": null,
+        "categories": ["Religious", "Architectural"]
     },
     {
         "name": "Президентский парк",
@@ -375,7 +400,8 @@
         "schedule": null,
         "buses": null,
         "ticket": null,
-        "contact": null
+        "contact": null,
+        "categories": ["Natural"]
     },
     {
         "name": "Парк «Жеруйык»",
@@ -387,7 +413,8 @@
         "schedule": null,
         "buses": null,
         "ticket": null,
-        "contact": null
+        "contact": null,
+        "categories": ["Natural"]
     },
     {
         "name": "Триатлон парк «Астана»",
@@ -399,7 +426,9 @@
         "schedule": null,
         "buses": null,
         "ticket": null,
-        "contact": null
+        "contact": null,
+        "categories": ["Natural", "Cultural"]
+
     },
     {
         "name": "ТРЦ «Хан Шатыр»",
@@ -411,7 +440,8 @@
         "schedule": null,
         "buses": null,
         "ticket": null,
-        "contact": null
+        "contact": null,
+        "categories": ["Architectural", "Entertainment Centers"]
     },
     {
         "name": "ЭКСПО-парк",
@@ -423,7 +453,8 @@
         "schedule": null,
         "buses": null,
         "ticket": null,
-        "contact": null
+        "contact": null,
+        "categories": ["Natural", "Architectural"]
     },
     {
         "name": "Парк «Жетысу»",
@@ -435,7 +466,8 @@
         "schedule": null,
         "buses": null,
         "ticket": null,
-        "contact": null
+        "contact": null,
+        "categories": ["Natural"]
     },
     {
         "name": "Старая площадь",
@@ -447,7 +479,8 @@
         "schedule": null,
         "buses": null,
         "ticket": null,
-        "contact": null
+        "contact": null,
+        "categories": ["Natural", "Cultural"]
     },
     {
         "name": "Галерея Искусств Хас-Санат",
@@ -471,7 +504,8 @@
             "46"
         ],
         "ticket": null,
-        "contact": null
+        "contact": null,
+        "categories": ["Museums", "Cultural"]
     },
     {
         "name": "Свят-Успенский кафедральный собор",
@@ -483,7 +517,8 @@
         "schedule": null,
         "buses": null,
         "ticket": null,
-        "contact": null
+        "contact": null,
+        "categories": ["Religious", "Cultural", "Entertainment"]
     },
     {
         "name": "Музей Первого Президента Республики Казахстан",
@@ -503,7 +538,8 @@
             "105"
         ],
         "ticket": null,
-        "contact": "+7 (7172) 69‒30‒41"
+        "contact": "+7 (7172) 69‒30‒41",
+        "categories": ["Museums", "Architectural"]
     },
     {
         "name": "Назарбаев центр",
@@ -519,7 +555,8 @@
             "5"
         ],
         "ticket": null,
-        "contact": "+7 (7172) 70‒83‒04"
+        "contact": "+7 (7172) 70‒83‒04",
+        "categories": ["Architectural"]
     },
     {
         "name": "Военно-исторический музей вооруженных сил РК",
@@ -541,6 +578,7 @@
             "70"
         ],
         "ticket": null,
-        "contact": "+7 (7172) 44‒26‒19"
+        "contact": "+7 (7172) 44‒26‒19",
+        "categories": ["Historical", "Cultural"]
     }
 ]
